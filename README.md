@@ -1,1 +1,1 @@
-# Image_Enhancement_CNN_Major_Project_ECE
+# Image_Enhancement_CNN
